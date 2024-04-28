@@ -1,7 +1,7 @@
 class Solution {
     public int[] two_sum(int[] nums, int target) {
         
-        
+        // https://leetcode.com/problems/two-sum/
 
         for (int i = 1; i < nums.length; i++) {
 
