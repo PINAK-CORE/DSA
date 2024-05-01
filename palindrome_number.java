@@ -1,8 +1,8 @@
 class Solution {
     public boolean isPalindrome(int x) {
         
-            // Q : https://leetcode.com/problems/palindrome-number/
-            // Solution : https://leetcode.com/problems/palindrome-number/solutions/5084181/palindrome-number-simple-solution-java-eazy-and-understandable-approach
+        // Q : https://leetcode.com/problems/palindrome-number/
+        // Solution : https://leetcode.com/problems/palindrome-number/solutions/5084181/palindrome-number-simple-solution-java-eazy-and-understandable-approach
 
         String s = String.valueOf(x);
         int start = 0;
