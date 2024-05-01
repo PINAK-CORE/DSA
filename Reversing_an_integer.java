@@ -1,7 +1,6 @@
 class Solution {
     public int reverse(int x) {
         
-       
     // Q: https://leetcode.com/problems/reverse-integer/
     // Solution : https://leetcode.com/problems/reverse-integer/solutions/5092709/reversing-an-integer-simple-java-eazy-understandable-solution
         int num = Math.abs(x);  
